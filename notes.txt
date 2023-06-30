@@ -1,4 +1,8 @@
-
+                  change control            version control
 working directory   -------> stagging area  ------> local repo  ----> remote repo
-
+                                            git commit -m '<message>'
+                                          git reset HEAD^  <--------
+                                            --soft
+                                            --hard
 git status               --> git add . or <file_name>
+                        ---> git rm --cached <file_name>
