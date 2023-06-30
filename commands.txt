@@ -1,0 +1,41 @@
+    1  ls
+    2  alias cls=clear
+    3  cls
+    4  git
+    5  cls
+    6  code .
+    7  mkdir sample_project
+    8  cd sample_project/
+    9  pwd
+   10  ls
+   11  touch text1.txt
+   12  ls -a
+   13  pwd
+   14  cd ..
+   15  pwd
+   16  cd .
+   17  cd ..
+   18  cd -
+   19  clear
+   20  ls -a
+   21  ls -a -l
+   22  cls
+   23  ls
+   24  ls -a
+   25  ls -a -l
+   26  cls
+   27  cd sample_project/
+   28  cls
+   29  ls
+   30  ls -al
+   31  touch py1.py
+   32  ls -al
+   33  chmod u+x py1.py
+   34  ls -al
+   35  chmod +x py1.py
+   36  ls -al
+   37  chmod 755 py1.py
+   38  ls -al
+   39  history
+   40  history 
+   41  history > commands.txt
